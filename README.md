@@ -1,5 +1,5 @@
 # Logistic Regression in AzureML
-<b>Summary:</b> In this experiment, we will build a model that will predict for an inmate that if he will commit crime when released on parole. <i>This experiment was built in April 2015.</i>
+<b>Summary:</b> In this experiment, we will build a machine learning model that will predict for an inmate that if he will commit crime when released on parole. <i>This experiment was built in April 2015.</i>
 
 AzureML Gallery: https://gallery.azureml.net/Details/eae76138f1f84dfeb7bfb6e9ea7dfa26
 
